@@ -1,0 +1,31 @@
+body {
+  width: 960px;
+}
+
+header {
+  padding: 8px 0 8px 0;
+  font-family:monospace;
+  font-style:normal;
+  font-size: large;
+}
+
+section {
+  float: left;
+  width: 600px;
+  padding: 0 8px 0 0;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  font-family:monospace;
+  font-style:normal;
+  font-size:medium;
+}
+
+aside {
+  float: left;
+  width: 360px;
+  padding: 0 0 0 8px;
+  box-sizing: border-box;
+  font-family:monospace;
+  font-style:normal;
+  font-size:medium;
+}
